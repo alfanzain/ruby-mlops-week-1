@@ -1,4 +1,4 @@
-# MLOps Week 1
+# MLOps Week 2
 
 ## Project
 
